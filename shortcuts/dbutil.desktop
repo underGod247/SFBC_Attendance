@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=dbutil
+GenericName=dbutil
+Comment=Attendance management system
+Icon=/usr/share/pixmaps/gksu-debian.xpm
+Path=/home/pi/RFIDattend
+Exec=python dbutil.py
+Type=Application
+Terminal=true

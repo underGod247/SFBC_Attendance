@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Attendance
+GenericName=Attendance
+Comment=Attendance tracking system
+Icon=/usr/share/pixmaps/gksuexec-debian.xpm
+Path=/home/pi/RFIDattend
+Exec=python RFIDattend2_7.py
+Type=Application
+Terminal=false

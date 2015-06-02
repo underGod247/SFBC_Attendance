@@ -1,0 +1,6 @@
+id,rfid,email,name,attendance_count,last_date,checked_in,late_count,last_time
+1,000000000000,attendance@sfbc.org,Model Member,0,06/01/15,0,0,23:16:15
+2,1234567890AB,david.patterson@edgeresearchlab.com,David Patterson,0,06/01/15,0,0,23:16:15
+3,7A00929B4F3C,theresa@sfbc.org,Theresa P,1,06/01/15,1,1,23:16:44
+4,7A00929AB9CB,glenn@sfbc.org,Glenn S,0,06/01/15,0,0,23:16:15
+5,7A0092DAAB99,martha@sfbc.org,Martha W,0,06/01/15,0,0,23:16:15

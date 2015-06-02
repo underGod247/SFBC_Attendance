@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Manage
+GenericName=Manage
+Comment=Attendance management system
+Icon=/usr/share/pixmaps/obconf.xpm
+Path=/home/pi/RFIDattend
+Exec=python RFIDmanage2_7.py
+Type=Application
+Terminal=false
